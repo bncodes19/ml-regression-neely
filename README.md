@@ -45,7 +45,7 @@ We use scikit-learn, built on NumPy, SciPy, and matplotlib
 ## How to clone this project for further development:
 Clone this repository:  
 ```shell
-git clone <https://github.com/bncodes19/ml-regression-neely>
+git clone https://github.com/bncodes19/ml-regression-neely
 ```
 ### To set up the virtual environment in the terminal:
 ``` shell
