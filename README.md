@@ -1,4 +1,4 @@
-# Mushroom Dataset Poisonous Prediction
+# Medical Insurance Cost Prediction
 
 ### Link to notebook: [regression_neely.ipynb](https://github.com/bncodes19/ml-regression-neely/blob/main/regression_neely.ipynb)
 
